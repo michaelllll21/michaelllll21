@@ -15,34 +15,26 @@
 - 📅 Productivity Calendar (with weather + task manager)
 - 🌤️ Weather App (live API-based)
 - ✅ Habit Tracker (daily goals + streak system)
-- 📈 GitHub Profile Enhancer (README + visuals)
+- 🧰 GitHub Profile Enhancer (README, badges, themes)
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaellll121&show_icons=true&theme=radical" alt="Michael's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaellll121&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelllll21&show_icons=true&theme=radical" alt="Michael's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelllll21&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaellll121&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=michaellll121&theme=dracula&no-frame=true&row=1&column=6" />
-</p>
+### 🎯 Current Goals
+- 📚 Deepen React knowledge (hooks, context, routing)
+- 🧠 Improve design with Tailwind & animations
+- 💼 Build a simple portfolio website
+- 🎯 Finish the Google IT Support Certificate
 
 ---
 
 ### 📫 Contact Me
 - Email: [michaelelejorde21@gmail.com](mailto:michaelelejorde21@gmail.com)  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ebalan-michael-elejorde)
-
-
