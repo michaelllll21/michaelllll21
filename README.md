@@ -4,18 +4,12 @@
 ---
 
 ### 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-### 🚀 Projects I'm Working On
-- 📅 Productivity Calendar (with weather + task manager)
-- 🌤️ Weather App (live API-based)
-- ✅ Habit Tracker (daily goals + streak system)
-- 🧰 GitHub Profile Enhancer (README, badges, themes)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
 ---
 
@@ -28,13 +22,13 @@
 ---
 
 ### 🎯 Current Goals
-- 📚 Deepen React knowledge (hooks, context, routing)
-- 🧠 Improve design with Tailwind & animations
-- 💼 Build a simple portfolio website
-- 🎯 Finish the Google IT Support Certificate
+- 📚 Deepen React knowledge (hooks, context, routing)  
+- 🧠 Improve design with Tailwind & animations  
+- 💼 Build a simple portfolio website  
+- 🎯 Finish the Google IT Support Certificate ✅  
 
 ---
 
 ### 📫 Contact Me
 - Email: [michaelelejorde21@gmail.com](mailto:michaelelejorde21@gmail.com)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ebalan-michael-elejorde)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-ebalan-945576375/)
