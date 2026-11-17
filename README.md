@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Michael Ebalan 👋</h1>
 <p align="center">IT Support | Helpdesk | Junior SOC | Cloud Support | Network Support</p>
-<p align="center">BS Information Technology student at PRMSU, Iba, Zambales<br>Looking for an OJT in IT Support, Helpdesk, Junior SOC, Cloud, or Network Support</p>
+<p align="center">BS Information Technology student at PRMSU, Iba, Zambales<br>Looking for a 600-hour OJT in IT Support, Helpdesk, Junior SOC, Cloud, or Network Support</p>
 
 <p align="center">
-  <b>Available for OJT:</b> [month/year] to [month/year] ([number] hours)<br>
-  <b>Location:</b> Iba, Zambales (open to Olongapo/Subic and Metro Manila)
+  <b>Available for OJT:</b> 600 hours<br>
+  <b>Location:</b> Zambales, Philippines (open to Olongapo/Subic and Metro Manila)
 </p>
 
 ---
@@ -33,7 +33,7 @@
 | [Basic SOC / SIEM Lab](https://github.com/michaelllll21/basic-soc-siem-lab) | Windows security event analysis, failed login detection, incident documentation |
 | [Azure Beginner Cloud Admin Lab](https://github.com/michaelllll21/azure-beginner-cloud-admin-lab) | Storage, networking, monitoring, cost management, Cloud Shell, Entra ID, RBAC |
 | [Active Directory Home Lab](https://github.com/michaelllll21/active-directory-home-lab) | Windows Server 2022, DNS, DHCP, Group Policy, user management, support troubleshooting |
-| [IT Helpdesk Lab Series](https://github.com/michaelllll21/-IT-Helpdesk-Lab-Series) | VirtualBox lab that simulates a small enterprise IT environment with Active Directory |
+| [IT Helpdesk Lab Series](https://github.com/michaelllll21/-IT-Helpdesk-Lab-Series) | VirtualBox lab that simulates a small enterprise IT environment: Active Directory, domain-joined PCs, remote administration, Group Policy, software deployment, and helpdesk workflows |
 | [Small Office Network Lab](https://github.com/michaelllll21/small-office-network-lab) | Small office network setup |
 | [Wearable Emergency Telegram Alert](https://github.com/michaelllll21/Wearable-Emergency-Telegram-Alert) | ESP8266 wearable IoT device that sends emergency alerts through a Telegram bot |
 
@@ -41,19 +41,19 @@
 
 ---
 
-### 🎓 Certifications and Training
+### 🎓 Certifications
+- ISC2 Certified in Cybersecurity (CC), ISC2
 - AWS Cloud Practitioner Essentials, Amazon Web Services
 - Google IT Support Professional Certificate and Google Cybersecurity Professional Certificate
 - Cisco Networking Devices and Initial Configuration, Cisco Networking Basics
 - TESDA Installing and Configuring Computer Systems
-- ISC2 Certified in Cybersecurity (CC): exam preparation
 
 ---
 
 ### 🎯 Current Goals
-- Pass the ISC2 Certified in Cybersecurity (CC) exam
 - Build and document more SOC and cloud labs with screenshots
-- Complete an OJT in IT Support, Helpdesk, Junior SOC, Cloud, or Network Support
+- Keep earning certifications in cloud, networking, and security
+- Complete a 600-hour OJT in IT Support, Helpdesk, Junior SOC, Cloud, or Network Support
 
 ---
 
